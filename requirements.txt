@@ -10,4 +10,4 @@ stocker~=0.1.11
 yfinance~=0.1.70
 pandas_datareader
 finta
-math
+
